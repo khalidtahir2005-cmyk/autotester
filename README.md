@@ -34,8 +34,3 @@ Bash
 python autotester.py
 Utilisation : Sélectionnez votre dossier de projet ou fichier .py, cliquez sur "Run Tests", et consultez les résultats dans la console intégrée.
 
-🎨 Aperçu
-(هنا حط Screenshot للتطبيق وهو خدام)
-
-🤝 Contribution
-Ce projet est ouvert à toute amélioration. N'hésitez pas à forker le projet et à proposer des Pull Requests pour ajouter de nouvelles fonctionnalités.
